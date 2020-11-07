@@ -1,3 +1,3 @@
 # Movies
 
-repository ini merupakan repository untuk kontribusi open source pertama saya
+repository ini adalah materi fossclass pada tanggal 23 Oktober
